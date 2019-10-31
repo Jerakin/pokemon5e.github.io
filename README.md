@@ -1,6 +1,6 @@
-pokemon5e.com
+# pokemon5e.com
 
-Based on the theme by the [SinglePaged Jekyll Theme](Fancy jekyll)
+Based on the theme by the [SinglePaged Jekyll Theme](https://github.com/t413/SinglePaged)
 
 # Contributing
 ## Fork the project repo
@@ -58,6 +58,6 @@ Don't worry about the "No GitHub API authentication could be found" message.  We
 Changes to predefined colors are made in `_config.yml` that will then get inserted into auto generated CSS files. Remember that to see changes in this file you need to restart the local server, press ctrl-c to stop and then `bundle exec jekyll serve` to start it again.
 
 #### Adding Resource
-Before you add a resource you need a banner, I have the "source" templates of the banners located within `/pokemon5e.github.io/_source/`. Save it out as a png in `/pokemon5e.github.io/img/`.
+Before you add a resource you need a banner, I have the "source" templates of the banners located on a [google drive](https://drive.google.com/drive/folders/1pOWc1iLteWlYeBO5FfBx4Ay-JkYGbKLi?usp=sharing). Save it out as a png in `/pokemon5e.github.io/img/**/`.
 
 You add it to the website by editing the file `/pokemon5e.github.io/_data/resources.json`, create a new list entry and insert image, description (don't forget the authors name!) and the url.

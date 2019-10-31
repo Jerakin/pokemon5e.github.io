@@ -1,0 +1,32 @@
+safe: false
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore, _source]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "Pokémon5E - Pokémon in D&D5E"
+keywords:    "Dungeons and Dragons, D&D, dnd, pokemon, pokemon5e, pokedex, pokedex5e"
+description: "The Wonderful World of Pokémon - in Dungeons & Dragons 5E"
+favicon:     "img/favicon.png"
+touch_icon:  "img/apple-touch-icon.png"
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  red: 		 '#e33236'
+  dark_grey: '#444444'
+
+kramdown:
+  auto_ids:  false
