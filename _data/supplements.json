@@ -15,13 +15,13 @@
     	"title": "Daycares and Eggs",
         "url": "https://drive.google.com/file/d/1EQ86RSOuroj5jU3-tUHw1OaUxkWpVsy-/view",
         "img": "img/resource_banners/daycares_banner.png",
-        "description": "TheBirdBlue created this supplement for Breeding and using Daycares."
+        "description": "TheBirdBlue created this supplement for Breeding and using Daycares. The breeding is based on egg groups."
     },
     {
         "title": "Pokémon Breeding",
         "url": "https://www.gmbinder.com/share/-LrKE9De9SE7rTrOWS29",
         "img": "img/resource_banners/breeding_banner.png",
-        "description": "jslabes#8547 on Discord created this supplement for hatching eggs and breeding Pokemon."
+        "description": "jslabes#8547 on Discord created this supplement for hatching eggs and breeding Pokemon. The breeding is based on natures."
     },
     {
     	"title": "Alolan Forms",
@@ -51,7 +51,7 @@
     	"title": "Pokémon Races",
         "url": "https://www.gmbinder.com/share/-Le2W9tnvzpKYx5HKWXa",
         "img": "img/resource_banners/pokemon_races.png",
-        "description": "Amazon#0202 on Discord created this supplement for adding 'native' Players Races such as Kantoan and Sinnoan"
+        "description": "Amazon#0202 on Discord created this supplement for adding 'native' Players Races such as Kantoan and Sinnoan."
     },
     {
     	"title": "D&D Races",
@@ -75,13 +75,19 @@
     	"title": "Joe's Baby Birds",
         "url": "https://www.gmbinder.com/share/-LZ9qot7gPGFnE1n-Oxg",
         "img": "img/resource_banners/baby_birds_banner.png",
-        "description": "JOEtheDM created this supplement for including pre-evolution to the Legendary Birds of Kanto"
+        "description": "JOEtheDM created this supplement for including pre-evolution to the Legendary Birds of Kanto."
+    },
+    {
+    	"title": "OoRJ's Baby Birds",
+        "url": "https://drive.google.com/open?id=1CMkVpH7N8t9j6wE2297CdWuBiVCfcP0s",
+        "img": "img/resource_banners/oorj_birds_banner.png",
+        "description": "OoRJ#1534 created these alternative pre-evolution to the Legendary Birds of Kanto."
     },
     {
     	"title": "Johto Travel Times",
         "url": "https://www.gmbinder.com/share/-Ls1d8nJUAdHc-3OvWT_",
         "img": "img/resource_banners/johto_travel_banner.png",
-        "description": "Solynx#4425 on Discord created this supplement of pre-estimated travel times in Johto"
+        "description": "Solynx#4425 on Discord created this supplement of pre-estimated travel times in Johto."
     },
     {
     	"title": "Trainer/Pokémon Sheet",
@@ -99,7 +105,7 @@
     	"title": "Random Pokémon",
         "url": "https://docs.google.com/spreadsheets/d/1GtrFoGc0WrZzVa53L_VsKZAkorSATLjrUExkjgfSgaI/edit#gid=786919918",
         "img": "img/resource_banners/random_pokemon_banner.png",
-        "description": "A google sheet created by JOEtheDM to randomize a Pokémon depending on Terrain"
+        "description": "A google sheet created by JOEtheDM to randomize a Pokémon depending on Terrain."
     },
     {
     	"title": "Combat Master for 5E",
@@ -114,6 +120,24 @@
         "description": "A google sheet created by [/u/T_HINE](https://www.reddit.com/user/T_HINE) to let you keep track of caught and seen Pokémon for Gen 1 to 4."
     },
     {
+    	"title": "Fillable Player PDF",
+        "url": "https://drive.google.com/file/d/1JzxY154sSYd6gEk27RebZU5VvGz4vcBw/view?usp=drivesdk",
+        "img": "img/resource_banners/player_sheet_fillable.png",
+        "description": "Made by OoRJ#1534 on Discord."
+    },
+        {
+    	"title": "Fillable Inventory PDF",
+        "url": "https://drive.google.com/file/d/19C00jzMkyZ0kEK4zoeX_1r-UPBL-9_r8/view?usp=drivesdk",
+        "img": "img/resource_banners/inventory_sheet_fillable.png",
+        "description": "Made by OoRJ#1534 on Discord."
+    },
+        {
+    	"title": "Fillable Pokemon PDF",
+        "url": "https://drive.google.com/file/d/1_CbSKHJjlZoP7VF8OcYGCPuXLlNsttYv/view?usp=drivesdk",
+        "img": "img/resource_banners/pkmn_sheet_fillable.png",
+        "description": "Made by OoRJ#1534 on Discord, there is also one [with 5 moves](https://drive.google.com/file/d/1_WlKmm0uyoHqWxEAx1cnQODDB2jPqDC1/view?usp=drivesdk)."
+    },
+        {
     	"title": "Simplified Sheets",
         "url": "https://drive.google.com/file/d/1-I5ku4kvU799ZmUdiJLaqB28Q5gKOYD9/view",
         "img": "img/resource_banners/simplified_sheets.png",
