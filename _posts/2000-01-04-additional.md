@@ -9,8 +9,16 @@ style: center
 
 *There are also a lot of additional resources created by players and DMs. Here are some of our favorites!*
 
-{% for member in site.data.resources %}
-  <a href="{{ member.url }}"><img src="{{ member.img }}"></a>
+{% for member in site.data.supplements %}
+<div class="banner_container">
+<a href="{{ member.url }}">
+
+<img src="{{ member.img }}">
+
+<div class="banner_text">{{ member.title }}</div>
+
+</a>
+</div>	
 
   {{ member.description }}
   
@@ -18,8 +26,10 @@ style: center
 
 
 {% endfor %}
-
-![spotify](img/resource_banners/spotify_banner.png)
+<div class="banner_container">
+<img src="img/resource_banners/spotify_banner.png">
+<div class="banner_text">Music Playlists</div>
+</div>	
 
 OoRJ#1534 on Discord created these Spotify playlists for his sessions that he has kindly shared.
 

@@ -1,115 +1,138 @@
 [
     {
+    	"title": "Oak's Parcel",
         "url": "https://drive.google.com/open?id=1RFJuJHkJ8DCVZ0IcUfeldne5838zUg08",
         "img": "img/resource_banners/oaks_parcel_banner.png",
         "description": "Oak's Parcel is a one shot created by JOEtheDM as an introduction to Pokémon5E."
     },
     {
+    	"title": "Kanto: Indigo League",
         "url": "https://drive.google.com/file/d/1z-m0D9agZplL0cOTPRgZHwpouEZlgIiJ/view",
         "img": "img/resource_banners/kanto_banner.png",
         "description": "jslabes#8547 on Discord have created this complete Pokemon 5E adventure, it also includes rules for traveling, scenarios for encountering wild Pokémon and shiney Pokémon and much more."
     },
     {
+    	"title": "Daycares and Eggs",
         "url": "https://drive.google.com/file/d/1EQ86RSOuroj5jU3-tUHw1OaUxkWpVsy-/view",
         "img": "img/resource_banners/daycares_banner.png",
         "description": "TheBirdBlue created this supplement for Breeding and using Daycares."
     },
     {
+        "title": "Pokémon Breeding",
         "url": "https://www.gmbinder.com/share/-LrKE9De9SE7rTrOWS29",
         "img": "img/resource_banners/breeding_banner.png",
         "description": "jslabes#8547 on Discord created this supplement for hatching eggs and breeding Pokemon."
     },
-        {
+    {
+    	"title": "Alolan Forms",
         "url": "https://www.gmbinder.com/share/-LXHZd7RlARRRIVBAMAu",
         "img": "img/resource_banners/alolan_banner.png",
         "description": "foiledfeline#2237 on Discord created this supplement for adding Alolan forms."
     },
     {
+    	"title": "Mega Evolutions",
         "url": "https://drive.google.com/file/d/1p2XBf78On9fPoKLAIflSQ3_uiIffnqxD/view",
         "img": "img/resource_banners/mega_evolution_banner.png",
         "description": "foiledfeline#2237 on Discord created this supplement for using Mega Evolutions."
     },
     {
+    	"title": "Pokémon Contests",
         "url": "https://docs.google.com/document/d/1bu-B6_o47M8LpFCFp21T32IJ03akm6Z51A77rYvWhPw/edit",
         "img": "img/resource_banners/pokemon_contest_banner.png",
         "description": "Nomi#0980 on Discord created this supplement for running Pokémon Contests."
     },
     {
+    	"title": "More Battle Types",
         "url": "https://www.gmbinder.com/share/-Ls1nu06jm2__tyC6_TV",
         "img": "img/resource_banners/alternative_battle_banner.png",
         "description": "Solynx#4425 on Discord created this supplement containing a bunch of alternative battle types"
     },
     {
+    	"title": "Pokémon Races",
         "url": "https://www.gmbinder.com/share/-Le2W9tnvzpKYx5HKWXa",
         "img": "img/resource_banners/pokemon_races.png",
         "description": "Amazon#0202 on Discord created this supplement for adding 'native' Players Races such as Kantoan and Sinnoan"
     },
     {
+    	"title": "D&D Races",
         "url": "https://docs.google.com/document/d/1AqJDN92I5cqCByt6V8wltj-llC_MIUJwxNCKYZAmLyo/edit?usp=sharing",
         "img": "img/resource_banners/pokemon5e_races_banner.png",
         "description": "milomedic#4836 on Discord created this supplement that adapts the D&D 5e races to work more naturally with the Pokémon world."
     },
     {
+    	"title": "P5E Backgrounds",
         "url": "https://homebrewery.naturalcrit.com/share/HyXoT9ioaE",
         "img": "img/resource_banners/p5e_backgrounds.png",
         "description": "0silverphoenix#6596 on Discord have created a supplement for some backgrounds that fit better in Pokémon5E."
     },
-        {
+    {
+    	"title": "Stadium Cup Rules",
         "url": "https://www.gmbinder.com/share/-Ls1qx-fbF0-8QQl1NlB",
         "img": "img/resource_banners/stadium_cup_banner.png",
         "description": "Solynx#4425 on Discord created this supplement of Pokemon Cup Rules."
     },
     {
+    	"title": "Joe's Baby Birds",
         "url": "https://www.gmbinder.com/share/-LZ9qot7gPGFnE1n-Oxg",
         "img": "img/resource_banners/baby_birds_banner.png",
         "description": "JOEtheDM created this supplement for including pre-evolution to the Legendary Birds of Kanto"
     },
     {
+    	"title": "Johto Travel Times",
         "url": "https://www.gmbinder.com/share/-Ls1d8nJUAdHc-3OvWT_",
         "img": "img/resource_banners/johto_travel_banner.png",
         "description": "Solynx#4425 on Discord created this supplement of pre-estimated travel times in Johto"
     },
     {
+    	"title": "Trainer/Pokémon Sheet",
         "url": "https://docs.google.com/spreadsheets/d/1yQOIhUnSFUfaE7y2H8JnCKeyknn3RA6hIJhSGQMXN68/edit#gid=731507081",
         "img": "img/resource_banners/trainer_pokemon_banners.png",
         "description": "A google sheet created by JOEtheDM to help players keep track of their caught Pokémon."
     },
     {
+    	"title": "DM Pokémon Builder",
         "url": "https://docs.google.com/spreadsheets/d/1GwD4k8AY0-kD4WyGegU3aO64v5pxdCe2AE5GbvCnhk4/edit#gid=1140486358",
         "img": "img/resource_banners/dm_builder_banners.png",
         "description": "A google sheet created by JOEtheDM to help DMs be organised."
     },
     {
+    	"title": "Random Pokémon",
         "url": "https://docs.google.com/spreadsheets/d/1GtrFoGc0WrZzVa53L_VsKZAkorSATLjrUExkjgfSgaI/edit#gid=786919918",
         "img": "img/resource_banners/random_pokemon_banner.png",
         "description": "A google sheet created by JOEtheDM to randomize a Pokémon depending on Terrain"
     },
     {
+    	"title": "Combat Master for 5E",
         "url": "https://docs.google.com/spreadsheets/d/1XWWvKr7Lq9ClHP0KcRRI8eeBiy3Ek0tmuy0NJW_MEDk",
         "img": "img/resource_banners/combat_master_banners.png",
         "description": "A google sheet created by [/u/HappyMyconid](https://www.reddit.com/user/HappyMyconid/) it contains a few different tools created to make Dungeon Mastering easier."
     },
     {
+    	"title": "Pokédex Sheet",
         "url": "https://docs.google.com/spreadsheets/d/1v7nHKSsNdiqUZ9OjvJZtFk9H9cFRfsXfbhtw4LddG5w/edit#gid=731227192",
         "img": "img/resource_banners/pokedex_sheet_banners.png",
         "description": "A google sheet created by [/u/T_HINE](https://www.reddit.com/user/T_HINE) to let you keep track of caught and seen Pokémon for Gen 1 to 4."
     },
     {
+    	"title": "Simplified Sheets",
         "url": "https://drive.google.com/file/d/1-I5ku4kvU799ZmUdiJLaqB28Q5gKOYD9/view",
         "img": "img/resource_banners/simplified_sheets.png",
         "description": "Meme Man#3221 on Discord created this simplified character sheet, it also exists in [black/white](https://drive.google.com/file/d/1MknsIKKDBUA6g_rZBBmfDoWYb6qf7C7T/view)."
     },
     {
+    	"title": "Macros",
         "url": "https://drive.google.com/file/d/1v7kgYIx_WuE-dAh6uqgLs3NGoBJKsfK0/view",
         "img": "img/resource_banners/roll20_macros_banner.png",
         "description": "Ripple_Effect_MLP#2666 on Discord have created a whole document for Roll20 macros of Moves and such."
     },
     {
+    	"title": "Lindseyrie's Collection",
         "url": "https://onedrive.live.com/redir?resid=2FAD4F1709C9F4EF%211708&authkey=%21ACcDiDnjYv3c_mA&page=View&wd=target%28Resources.one%7C07f899da-0c20-43a7-96e2-4cc1a01b3a4a%2FSource%20Materials%7C3730265a-f3f8-4e58-b7c2-68a08e951abf%2F%29",
         "img": "img/resource_banners/lindseyrie_collection_banner.png",
         "description": "Lindseyrie#8403 on Discord have their own collection of supplements, it also includes a lot of other rules."
     },
     {
+    	"title": "P5E DM Screen",
         "url": "https://docs.google.com/document/d/1J-v-7vLfRfPpHkDo2R8ASAg3oT1Cb50TSjA2YGfH16w/edit",
         "img": "img/resource_banners/dm_screen_info_banner.png",
         "description": "Blythe#0001 on Discord have a document containing of tables and other nice info you can print and stick to youPr DM screen."
