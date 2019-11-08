@@ -10,7 +10,7 @@ style: center
 
 {% for member in site.data.books %}
 <div class="banner_container">
-<a href="{{ member.url }}">
+<a href="{{ member.url }}" target="_blank">
 
 <img src="{{ member.img }}">
 
