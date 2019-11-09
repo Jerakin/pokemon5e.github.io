@@ -59,11 +59,13 @@ img {
 }
 
 .banner_container {
+  max-width:100%!important;
   position: relative;
   text-align: center;
 }
 
 .banner_text {
+  max-width:100%!important;
   font-family: 'Roboto', sans-serif;
   font-size: calc(42px + (60 - 42) * (100vw - 768px) / (1440 - 768));
   text-shadow:
