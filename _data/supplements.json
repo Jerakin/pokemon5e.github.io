@@ -7,9 +7,9 @@
     },
     {
     	"title": "Kanto: Indigo League",
-        "url": "https://sites.google.com/view/pokemonddcampaigns/home",
+        "url": "https://drive.google.com/file/d/13falruj6qr-3_-mG5SWCA7BgiNDPRBBE/view",
         "img": "img/resource_banners/kanto_banner.png",
-        "description": "jslabes#8547 on Discord have created this complete Pokemon 5E adventure, it also includes rules for traveling, scenarios for encountering wild Pokémon and shiney Pokémon and much more."
+        "description": "jslabes#8547 on Discord have created this complete Pokemon 5E adventure, he also have some additional rules for traveling, scenarios for encountering wild Pokémon and shiney Pokémon and much more [here](https://sites.google.com/view/pokemonddcampaigns/home)."
     },
     {
     	"title": "Daycares and Eggs",
@@ -28,6 +28,12 @@
         "url": "https://www.gmbinder.com/share/-LXHZd7RlARRRIVBAMAu",
         "img": "img/resource_banners/alolan_banner.png",
         "description": "foiledfeline#2237 on Discord created this supplement for adding Alolan forms."
+    },
+    {
+    	"title": "Galarian Forms",
+        "url": "https://www.gmbinder.com/share/-LuOhxsoKtW_Xsrqc0Rm",
+        "img": "img/resource_banners/galarian.png",
+        "description": "MaskedFreak have created this supplement for adding Galarian forms."
     },
     {
     	"title": "Mega Evolutions",
@@ -144,10 +150,16 @@
         "description": "Meme Man#3221 on Discord created this simplified character sheet, it also exists in [black/white](https://drive.google.com/file/d/1MknsIKKDBUA6g_rZBBmfDoWYb6qf7C7T/view)."
     },
     {
-    	"title": "Macros",
+    	"title": "Roll20 Moves",
         "url": "https://drive.google.com/file/d/1v7kgYIx_WuE-dAh6uqgLs3NGoBJKsfK0/view",
         "img": "img/resource_banners/roll20_macros_banner.png",
-        "description": "Ripple_Effect_MLP#2666 on Discord have created a whole document for Roll20 macros of Moves and such."
+        "description": "Ripple_Effect_MLP#2666 on Discord have created a whole document for Roll20 macros of Moves. milomedic#4836 Have created [a guide of how to use them](https://imgur.com/a/hzGymNB)"
+    },
+    {
+    	"title": "Roll20 Pokemon",
+        "url": "https://drive.google.com/drive/folders/1d9bBApqmDgAeYEPu6T_rypPhwSdu39-x?ths=true",
+        "img": "img/resource_banners/roll20_macros_banner.png",
+        "description": "apacolyps#9707 on Discord have created these Importable Pokemon."
     },
     {
     	"title": "Characters for 5e Comp.",
@@ -156,10 +168,22 @@
         "description": "[At'd]#2379 on Discord have created characters classes for the [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)"
     },
     {
-    	"title": "Pokémon Tokens I & II ",
+    	"title": "Tortoxicion's Tokens for I & II",
         "url": "https://drive.google.com/drive/folders/1AEEn37BBkeHbULxxHeRULjL1-QvcB8GR",
         "img": "img/resource_banners/tokens.png",
         "description": "Tortoxicion#6640 on Discord have created tokens made to be to scale when printed."
+    },
+    {
+    	"title": "Vik's Tokens for I - VI",
+        "url": "https://drive.google.com/file/d/19jjaFhjjKuyFUPqOeotEn5PDKNxqh6VD/view?usp=sharing",
+        "img": "img/resource_banners/vik_tokens.png",
+        "description": "Viktoor Frankenstein#8404 on Discord have created these tokens"
+    },
+    {
+    	"title": "Jerakin's Tokens for I - VI",
+        "url": "https://drive.google.com/drive/folders/1AEEn37BBkeHbULxxHeRULjL1-QvcB8GR",
+        "img": "img/resource_banners/jerakin_tokens.png",
+        "description": "Jerakin#8394 on Discord have created tokens these tokens."
     },
     {
     	"title": "Lindseyrie's Collection",
