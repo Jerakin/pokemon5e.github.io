@@ -150,6 +150,12 @@
         "description": "Meme Man#3221 on Discord created this simplified character sheet, it also exists in [black/white](https://drive.google.com/file/d/1MknsIKKDBUA6g_rZBBmfDoWYb6qf7C7T/view)."
     },
     {
+    	"title": "Foundry Compendium",
+        "url": "https://github.com/Jerakin/p5e-foundryVTT",
+        "img": "img/resource_banners/foundryvtt.png",
+        "description": "apacolyps#9707 and Jerakin#8394 on Discord have created a compendium for use with [FoundryVTT](https://foundryvtt.com/)."
+    },
+    {
     	"title": "Roll20 Moves",
         "url": "https://drive.google.com/file/d/1v7kgYIx_WuE-dAh6uqgLs3NGoBJKsfK0/view",
         "img": "img/resource_banners/roll20_macros_banner.png",
