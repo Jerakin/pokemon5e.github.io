@@ -155,6 +155,12 @@
         "img": "img/resource_banners/foundryvtt.png",
         "description": "apacolyps#9707 and Jerakin#8394 on Discord have created a compendium for use with [FoundryVTT](https://foundryvtt.com/)."
     },
+	    {
+    	"title": "Foundry Items Module",
+        "url": "https://github.com/MajorVictory/Pokemon5e-items",
+        "img": "img/resource_banners/foundryvtt_items.png",
+        "description": "MajorVictory87#3666 on Discord have made this Items Module for [FoundryVTT](https://foundryvtt.com/)."
+    },
     {
     	"title": "Roll20 Moves",
         "url": "https://drive.google.com/file/d/1v7kgYIx_WuE-dAh6uqgLs3NGoBJKsfK0/view",
