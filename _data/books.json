@@ -1,22 +1,27 @@
 [
     {
     	"title": "Players Handbook",
-        "url": "https://drive.google.com/open?id=1vrdj-P34j-cQCtzXO343oUb3n0g6gWux",
+        "url": "https://drive.google.com/file/d/1MqEebuQegsG2vydE57EpRcKMqxXA-CP7",
         "img": "img/book_banners/phb_banner.png"
     },
     {
     	"title": "Monster Manual I & II",
-        "url": "https://drive.google.com/open?id=1UmTLxxAHAQreomLH37JoIERA1PMHYoQW",
+        "url": "https://drive.google.com/file/d/1mQkVm8Tju9lMZmHDMqcYoPxEWHPpdBdL",
         "img": "img/book_banners/gen_1_2_banner.png"
     },
     {
     	"title": "Monster Manual III & IV",
-        "url": "https://drive.google.com/open?id=12AU0bpiYFbuhbITV1Afj6FO_nuI7N4vA",
+        "url": "https://drive.google.com/file/d/1NXYyArTR3F9s_cc-s6fbDbMB5s6up7tw",
         "img": "img/book_banners/gen_3_4_banner.png"
     },
     {
         "title": "Monster Manual V & VI",
-        "url": "https://drive.google.com/open?id=1hyUT3P_LBRz_HCh2SvEPSGwv0Oaf6UYc",
+        "url": "https://drive.google.com/file/d/1l41qQdhIRrhQLkghMbXtGmsV2POPImJ6",
         "img": "img/book_banners/gen_5_banner.png"
+    },
+    {
+        "title": "Monster Manual VII",
+        "url": "https://drive.google.com/file/d/1ub_5rKAHd_sD-EZk3i5uM_5QdqRdTQKU",
+        "img": "img/book_banners/gen_7_banner.png"
     }
 ]
