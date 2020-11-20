@@ -19,7 +19,7 @@
     },
         {
     	"title": "Move Browser",
-        "url": "jerakin.pythonanywhere.com",
+        "url": "https://jerakin.pythonanywhere.com",
         "img": "img/resource_banners/move_browser.png",
         "description": "Jerakin#8394 on Discord created this website to be able to search through the moves."
     },
