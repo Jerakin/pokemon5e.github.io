@@ -12,28 +12,16 @@
         "description": "jslabes#8547 on Discord have created this complete Pokemon 5E adventure, he also have some additional rules for traveling, scenarios for encountering wild Pokémon and shiney Pokémon and much more [here](https://sites.google.com/view/pokemonddcampaigns/home)."
     },
     {
-    	"title": "Daycares and Eggs",
-        "url": "https://drive.google.com/file/d/1EQ86RSOuroj5jU3-tUHw1OaUxkWpVsy-/view",
-        "img": "img/resource_banners/daycares_banner.png",
-        "description": "TheBirdBlue created this supplement for Breeding and using Daycares. The breeding is based on egg groups."
-    },
-    {
-        "title": "Pokémon Breeding",
-        "url": "https://www.gmbinder.com/share/-LrKE9De9SE7rTrOWS29",
-        "img": "img/resource_banners/breeding_banner.png",
-        "description": "jslabes#8547 on Discord created this supplement for hatching eggs and breeding Pokemon. The breeding is based on natures."
-    },
-    {
-    	"title": "Alolan Forms",
-        "url": "https://www.gmbinder.com/share/-LXHZd7RlARRRIVBAMAu",
-        "img": "img/resource_banners/alolan_banner.png",
-        "description": "foiledfeline#2237 on Discord created this supplement for adding Alolan forms."
-    },
-    {
     	"title": "Galarian Forms",
         "url": "https://www.gmbinder.com/share/-LuOhxsoKtW_Xsrqc0Rm",
         "img": "img/resource_banners/galarian.png",
         "description": "MaskedFreak have created this supplement for adding Galarian forms."
+    },
+        {
+    	"title": "Move Browser",
+        "url": "jerakin.pythonanywhere.com",
+        "img": "img/resource_banners/move_browser.png",
+        "description": "fJerakin#8394 on Discord created this website to be able to search through the moves."
     },
     {
     	"title": "Mega Evolutions",
