@@ -28,6 +28,7 @@ colors:
   red: 		 '#e33236'
   dark_grey: '#444444'
   johto:     '#804629'
+  ptole:     '#cf8030'
 
 kramdown:
   auto_ids:  false
