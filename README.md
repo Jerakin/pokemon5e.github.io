@@ -61,3 +61,4 @@ Changes to predefined colors are made in `_config.yml` that will then get insert
 Before you add a resource you need a banner, I have the "source" templates of the banners located on a [google drive](https://drive.google.com/drive/folders/1pOWc1iLteWlYeBO5FfBx4Ay-JkYGbKLi?usp=sharing). Save it out as a png in `/pokemon5e.github.io/img/**/`.
 
 You add it to the website by editing the file `/pokemon5e.github.io/_data/resources.json`, create a new list entry and insert image, description (don't forget the authors name!) and the url.
+ 
