@@ -3,12 +3,18 @@
     	"title": "Johto Region",
         "url": "https://discord.gg/nSe5wpZ",
         "img": "img/johto_banner.png",
-        "description": "Play with hundreds of other players in this West March style Play by Post Discord channel!"
+        "description": "Play with hundreds of other players in this self paced style Play by Post Discord server!"
     },
     {
     	"title": "Ptole Region",
         "url": "https://discord.gg/fA9MrGEWAx",
         "img": "img/ptole_banner.png",
         "description": "Join the Trainers of the Egypt-Inspired Ptole Region in a Pokémon 5e Tabletop MMORPG experience!"
+    },
+    {
+    	"title": "Pen & Pokemon Roleplay Server",
+        "url": "https://discord.gg/3wkFxTB",
+        "img": "img/pp_banner.png",
+        "description": "Pen and Pokémon is a server with a wide variety of games from long lasting campaigns to One-Shots."
     }
 ]
